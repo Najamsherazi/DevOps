@@ -13,3 +13,16 @@ jobs:
       - name: Barani CI/CD
         run:
              echo "We are Learning About Devop's Today"
+      - name: Step 1
+             echo "We are Learning About Devop's Today"
+      - name: Step 2
+             echo "We are Learning About Devop's Today"
+      - name: Step 3
+             echo "We are Learning About Devop's Today"
+      - name: Step 4
+             echo "We are Learning About Devop's Today"
+      - name: Step 5
+             echo "We are Learning About Devop's Today"
+             
+        
+            
